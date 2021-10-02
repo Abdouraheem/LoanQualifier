@@ -1,2 +1,2 @@
 # LoanQualifier
-loan qualifier application
+Rice University Fintech Bootcamp challenge: Loan qualifier application
