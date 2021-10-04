@@ -1,0 +1,50 @@
+  801  git push origin main
+  802  history
+  803  git remote set-url origin https://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@github.com/Abdouraheem/LoanQualifier.git
+  804  git push origin main
+  805  history 50 > terminal_history.txt
+  806  git pull
+  807  clear
+  808  python app.py 
+  809  pip install fire
+  810  history
+  811  conda desactivate
+  812  conda deactivate
+  813  conda activate dev
+  814  conda info --envs
+  815  conda activate spyder-env
+  816  pip install fire
+  817  python app.py 
+  818  pip install questionary
+  819* 
+  820  python app.py 
+  821  ls 
+  822  python app.py 
+  823  clear
+  824  python app.py 
+  825  clear
+  826  python app.py 
+  827  cd data/
+  828  cd ..
+  829  clear
+  830  python app.py 
+  831  clear
+  832* 
+  833  history 
+  834  clear
+  835  git add -A
+  836  git commit -m "qualified loans save to csv"
+  837  git commit -m "exit cli if no qualified loans"
+  838  git add -A
+  839  git commit -m "exit cli if no qualified loans"
+  840  git add -A
+  841  git commit -m "exit cli if no qualified loans"
+  842  git push origin main
+  843  history
+  844  git remote set-url origin https://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@github.com/Abdouraheem/LoanQualifier.git
+  845  git push origin main
+  846  git remote set-url origin https://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@github.com/Abdouraheem/LoanQualifier.git
+  847* 
+  848  git commit -m "exit cli if no qualified loans"
+  849  git add -A
+  850  git commit -m "exit cli if no qualified loans"
